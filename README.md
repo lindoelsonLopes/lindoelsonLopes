@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/lindoelsonLopes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lindoelsonLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindoelsonLopes&layout=compact&langs_count=7&theme=dracula"/>    
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lindoelsonLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindoelsonLopes&layout=compact&langs_count=7&theme=dracula"/>    
   <img width="200px" align="rigth" src="https://user-images.githubusercontent.com/90987627/153871922-9b094285-9217-4077-99a3-12e9a2102e47.png"/>
 </div>
   
