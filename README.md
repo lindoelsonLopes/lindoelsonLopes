@@ -19,8 +19,8 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-    <h2 align="center"><a href="">Projeto</a></h2>
-    <a href=""><img width="100%" src="" alt="" /></a>
+    <h2 align="center"><a href="">Projeto modelo de Portfolio</a></h2>
+    <a href="https://lindoelsonlopes.github.io/ProjetoDioPortfolio/"><img width="100%" src="./projetoPortfolioDio.png" alt="" /></a>
     <br>
     <br>
     <p>Projetos:</p>
