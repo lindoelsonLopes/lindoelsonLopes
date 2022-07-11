@@ -20,7 +20,7 @@
   <tr>
     <td valign="top" width="50%">
     <h2 align="center"><a href="">Projeto modelo de Portfolio</a></h2>
-    <a href="https://lindoelsonlopes.github.io/ProjetoDioPortfolio/"><img width="100%" src="./imagens/portfolioDio.png" alt="" /></a>
+    <a href="https://lindoelsonlopes.github.io/ProjetoDioPortfolio/"><img width="100%" src="./imagens/portfolioDio.png" alt="preview do projeto" target="_blank" /></a>
     <br>
     <br>
     <p>Projetos:</p>
