@@ -23,7 +23,7 @@
   <tr>
     <td valign="top" width="50%">
     <h2 align="center"><a href="https://lindoelsonlopes.github.io/ProjetoDioPortfolio/" target="_blank">Projeto modelo de Portfolio</a></h2>
-    <a href="https://lindoelsonlopes.github.io/ProjetoDioPortfolio/" target="_blank"><img width="100%" src="./imagens/portfolioDio.png" alt="preview do projeto" /></a>
+    <a href="https://lindoelsonlopes.github.io/ProjetoDioPortfolio/" target="_blank"><img width="100%" src="./imagens/projetoModeloDePortfolio.png" alt="preview do projeto" /></a>
     <br>
     <br>
     <p>Projetos:</p>
@@ -31,7 +31,7 @@
     </td>
     <td valign="top" width="50%">
     <h2 align="center"><a href="">Portfolio Oficial</a></h2>
-    <a href=""><img width="100%" src="" alt="" /></a>
+    <a href=""><img width="100%" src="./imagens/PortfolioOficial.png" alt="preview do portfolio" /></a>
     <br>
     <br>
     <p>Projeto elaborado com HTML5 e CSS3 </p>
