@@ -35,7 +35,8 @@
     <br>
     <br>
     <p>Projeto elaborado com HTML5 e CSS3 </p>
-    <p>Em breve...</p>
+    <p>Portfolio inspirado no Curso do <a href="https://www.youtube.com/c/MarcoBrunoDev" target="_blank">Marco Bruno </a>onde realizei mudanças para ficar mais condizente com o meu perfil. Em breve será importado todos os projetos que mais me orgulho.</p>
+    <p>Também trabalharei em breve na responsividade do portfolio.</p>
     </td>
   </tr>
 </table>
