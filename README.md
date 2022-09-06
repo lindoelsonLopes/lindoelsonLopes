@@ -1,5 +1,8 @@
 ## Olá! Eu sou o Lindoelson Lopes 👋
 
+<p>Desenvolvedor Web FullStack em formação pela<a href="https://www.betrybe.com/" target="_blank">Trybe.</a> Tenho 41 anos, pais de dois filhos, brasileiro e moro em São Paulo Capital  Depois de 2 anos empreendendo me apaixonei pela tecnologia e percebi que posso fazer a diferença como desenvolvedor. Sou uma pessoa dedicada, focada, curiosa e amo buscar soluções.</p>
+
+
 <div>
   <a href="https://github.com/lindoelsonLopes">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lindoelsonLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
