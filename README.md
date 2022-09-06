@@ -30,7 +30,7 @@
     <p>Em breve</p>
     </td>
     <td valign="top" width="50%">
-    <h2 align="center"><a href="https://portfolio-oficial-pi.vercel.app" target="_blank">Portfolio Oficial</a></h2>
+    <h2 align="center"><a href="https://github.com/lindoelsonLopes/PortfolioOficial" target="_blank">Portfolio Oficial</a></h2>
     <a href="https://portfolio-oficial-pi.vercel.app/"><img width="100%" src="./imagens/PortfolioOficial.png" alt="preview do portfolio" /></a>
     <br>
     <br>
