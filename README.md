@@ -31,7 +31,7 @@
     </td>
     <td valign="top" width="50%">
     <h2 align="center"><a href="">Portfolio Oficial</a></h2>
-    <a href=""><img width="100%" src="./imagens/PortfolioOficial.png" alt="preview do portfolio" /></a>
+    <a href="https://portfolio-oficial-pi.vercel.app/"><img width="100%" src="./imagens/PortfolioOficial.png" alt="preview do portfolio" /></a>
     <br>
     <br>
     <p>Projeto elaborado com HTML5 e CSS3 </p>
