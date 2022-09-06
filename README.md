@@ -30,12 +30,12 @@
     <p>Em breve</p>
     </td>
     <td valign="top" width="50%">
-    <h2 align="center"><a href="">Projeto</a></h2>
+    <h2 align="center"><a href="">Portfolio Oficial</a></h2>
     <a href=""><img width="100%" src="" alt="" /></a>
     <br>
     <br>
-    <p>Projetos:</p>
-    <p>Em breve</p>
+    <p>Projeto elaborado com HTML5 e CSS3 </p>
+    <p>Em breve...</p>
     </td>
   </tr>
 </table>
