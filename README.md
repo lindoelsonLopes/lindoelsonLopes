@@ -26,7 +26,7 @@
   <tr>
     <td valign="top" width="50%">
     <h2 align="center"><a href="https://github.com/lindoelsonLopes/TrybeWallet" target="_blank">Projeto Trybe Wallet</a></h2>
-    <a href="https://lindoelsonlopes.github.io/ProjetoDioPortfolio/" target="_blank"><img width="100%" src="./imagens/tabelaWallet.png" alt="preview do projeto" /></a>
+    <a href="https://trybe-wallet-rho.vercel.app/" target="_blank"><img width="100%" src="./imagens/tabelaWallet.png" alt="preview do projeto" /></a>
     <br>
     <br>
     <h1>O que foi desenvolvido</h1>
@@ -38,8 +38,8 @@ Neste projeto foi desenvolvido uma carteira de controle de gastos com conversor 
 - Visualizar uma tabelas com seus gastos;
 - Visualizar o total de gastos convertidos para uma moeda de escolha;
 
-<h1>Habilidades</h1>
-
+<details>
+<summary><strong>Habilidades</strong></summary>
 Neste projeto, foi trabalhado as seguintes habilidades:
 
 - Criar um store Redux em aplicações React
@@ -53,6 +53,7 @@ Neste projeto, foi trabalhado as seguintes habilidades:
 - Conectar Redux aos componentes React
 
 - Criar actions assíncronas na sua aplicação React que faz uso de Redux.
+</details>
     </td>
     <td valign="top" width="50%">
     <h2 align="center"><a href="https://github.com/lindoelsonLopes/PortfolioOficial" target="_blank">Portfolio Oficial</a></h2>
