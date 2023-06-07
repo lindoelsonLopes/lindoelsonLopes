@@ -1,6 +1,12 @@
 ## Olá! Eu sou o Lindoelson Lopes 👋
 
-<p>Desenvolvedor Web Full Stack em formação pela<a href="https://www.betrybe.com/" target="_blank"> Trybe.</a> Tenho 41 anos, pai de dois filhos, brasileiro e moro em São Paulo Capital.  Depois de 2 anos empreendendo me apaixonei pela tecnologia e percebi que posso fazer a diferença como desenvolvedor. Sou uma pessoa dedicada, focada, curiosa e amo buscar soluções.</p>
+<p>Sou formado em Ciências Contábeis desde 2011, com mais de 10 anos de experiência na área financeira, tendo trabalhado em órgãos públicos e empresas privadas nacionais e multinacionais.
+
+Motivado pelo sonho de empreender, nos últimos 2 anos e meio, criei e administrei uma loja virtual de roupas para bebês, na qual desenvolvia peças exclusivas. Essa experiência despertou em mim uma paixão pela tecnologia e me levou a buscar uma transição de carreira.
+
+Decidi ingressar na Trybe, uma renomada escola de Desenvolvimento Web Fullstack, onde obtive uma sólida formação. Durante o curso de um ano, além de aprimorar minhas habilidades em Front-End, adquiri conhecimentos valiosos em Back-End. Explorei tecnologias como Unix & Bash, Git & GitHub, HTML, CSS, JavaScript, ReactJS, TypeScript, Redux, Docker, NodeJS, Express, Sequelize e MongoDB. Também tive a oportunidade de trabalhar em projetos colaborativos, utilizando metodologias ágeis como Scrum e Kanban.
+
+As experiências anteriores na área financeira e empreendedor me proporcionaram habilidades de liderança, capacidade de lidar com riscos, criatividade, resiliência, bom relacionamento interpessoal e trabalho em equipe. Agora, combinando essas habilidades com meu conhecimento em desenvolvimento web fullstack, estou entusiasmado em buscar oportunidades desafiadoras no mercado de tecnologia</p>
 
 
 <div>
