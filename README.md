@@ -8,6 +8,8 @@ Decidi ingressar na Trybe, uma renomada escola de Desenvolvimento Web Fullstack,
 
 As experiências anteriores na área financeira e empreendedor me proporcionaram habilidades de liderança, capacidade de lidar com riscos, criatividade, resiliência, bom relacionamento interpessoal e trabalho em equipe. Agora, combinando essas habilidades com meu conhecimento em desenvolvimento web fullstack, estou entusiasmado em buscar oportunidades desafiadoras no mercado de tecnologia</p>
 
+E-mail para contato: lindoelson_lopes@hotmail.com
+
 
 <div>
   <a href="https://github.com/lindoelsonLopes">
